@@ -1,0 +1,4 @@
+1. 完全重写二维平面移动装置(MoveController)以及更优秀的策略&&更高的Bug出错率
+2. 添加新控件之TextBox.
+3. 添加新的异世界の输入读取装置(InputController)配合TextBox进行输入。
+4. 修复Tag自动拉伸状态下擦除Rect的Bug
